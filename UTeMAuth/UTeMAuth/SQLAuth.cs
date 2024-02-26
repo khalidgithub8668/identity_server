@@ -11,22 +11,8 @@ namespace UTeMAuth
 {
     public class SQLAuth
     {
-        public static string dbase_developer = @"Data Source='devstudent.utem.edu.my';Initial Catalog='DbDeveloper';User ID='mobdev';Password='MobDev@Student22'";
-        public static string dbase_dbclm = @"Data Source='V-SQL14.utem.edu.my\SQL_INS04';Initial Catalog='dbclm';User ID='oas';Password='oas*pwd'";
-        public static string dbase_dbstaf = @"Data Source='V-SQL11.utem.edu.my\SQL_INS01';Initial Catalog='Dbstaf';User ID='smsm';Password='#smsm@kutkm07'";
-        public static string dbase_dbeqcas = @"Data Source='V-SQL14.utem.edu.my\SQL_INS04';Initial Catalog='eqcas';User ID='oas';Password='oas*pwd'";
-        public static string dbase_dbmobile = @"Data Source='V-SQL14.utem.edu.my\SQL_INS04';Initial Catalog='DbMobile';User ID='MobApp';Password='m0bile@pp2018'";
-        public static string dbase_dbstudent = @"Data Source='V-SQL13.utem.edu.my\SQL_INS03';Initial Catalog='DBstudent';User ID='smp';Password='#utem07pksmp'";
-        public static string dbase_dbresearcher = @"Data Source='V-SQL12.utem.edu.my\SQL_INS02';Initial Catalog='DbUnicRnd';User ID='smkb';Password='smkb*pwd'";
-        public static string dbase_dbpilihanraya = @"Data Source='V-SQL13.utem.edu.my\SQL_INS03';Initial Catalog='DBPilihanraya';User ID='smp';Password='#utem07pksmp'";
-        public static string dbase_dbstudentpsh = @"Data Source='V-SQL13.utem.edu.my\SQL_INS03';Initial Catalog='DbStudentPSH';User ID='smp';Password='#utem07pksmp'";
-        public static string dbase_dbpilihansenat = @"Data Source='V-SQL14.utem.edu.my\SQL_INS04';Initial Catalog='DbSenat';User ID='smp';Password='#utem07pksmp'";
-        public static string dbase_dbspku = @"Data Source='V-SQL14.utem.edu.my\SQL_INS04';Initial Catalog='dbspku';User ID='MobApp';Password='m0bile@pp2018'";
-
-        public static string dbase_devclm = @"Data Source='qa14.utem.edu.my';Initial Catalog='DBclm';User ID='smp';Password='#utem07pksmp'";
-        // public static string dbase_developer = @"Data Source='devstudent.utem.edu.my';Initial Catalog='DbDeveloper';User ID='mobdev';Password='MobDev@Student22'";
-        //  public static string dbase_dbresearcher_qa = @"Data Source='qa12.utem.edu.my';Initial Catalog='DBunicrnd';User ID='smkb';Password='smkb*pwd'";
-        public static string dbase_dbresearcher_qa = @"Data Source='V-SQL12.utem.edu.my\SQL_INS02';Initial Catalog='DbUnicRnd';User ID='smkb';Password='smkb*pwd'";
+        public static string dbase_developer = @"Data Source='devstudent.utem.edu.my';Initial Catalog='DbDeveloper';User ID='userid';Password='mypassword'";
+        public static string dbase_dbclm = @"Data Source='V-SQL14.utem.edu.my\SQL_INS04';Initial Catalog='dbclm';User ID='userid';Password='mypassword'";
         public static int rnd_seed = 327680;
         public static bool sqlvalidateUser2_caralama(string user, string password)
         {
