@@ -1,6 +1,0 @@
-F:\identityUTeM\UTeMAuth\UTeMAuth\bin\Release\UTeMAuth.dll
-F:\identityUTeM\UTeMAuth\UTeMAuth\bin\Release\UTeMAuth.pdb
-F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Release\UTeMAuth.csproj.AssemblyReference.cache
-F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Release\UTeMAuth.csproj.CoreCompileInputs.cache
-F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Release\UTeMAuth.dll
-F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Release\UTeMAuth.pdb
