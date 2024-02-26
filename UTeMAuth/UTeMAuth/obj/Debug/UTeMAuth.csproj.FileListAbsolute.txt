@@ -1,0 +1,6 @@
+F:\identityUTeM\UTeMAuth\UTeMAuth\bin\Debug\UTeMAuth.dll
+F:\identityUTeM\UTeMAuth\UTeMAuth\bin\Debug\UTeMAuth.pdb
+F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Debug\UTeMAuth.csproj.AssemblyReference.cache
+F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Debug\UTeMAuth.csproj.CoreCompileInputs.cache
+F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Debug\UTeMAuth.dll
+F:\identityUTeM\UTeMAuth\UTeMAuth\obj\Debug\UTeMAuth.pdb
